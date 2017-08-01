@@ -1,0 +1,209 @@
+/* ---------------------------  [ Red Theme ] ----------------------  */
+
+
+body {
+  font-family: Source Sans Pro;
+  color: #333;
+}
+.headersection {
+    background: #e86f67 none repeat scroll 0 0;
+    height:18%;
+}
+.footersection{  background: #e86f67 none repeat scroll 0 0; }
+.logo {
+    margin-top: 10px;
+}
+.logo h2 {
+    color: #2a363b;
+    text-shadow:none;
+    margin-bottom: 14px;
+}
+.logo p {
+  font-size: 16px;
+}
+.social {
+    margin-top: 25px;
+}
+.icon a { background: #2A363B none repeat scroll 0 0; 
+}
+.searchbtn input[type="text"] {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #333;
+    color:#000;
+ 
+}
+.searchbtn input[type="submit"] {
+    border: 1px solid #720a0e;
+    transition: 0.3s;
+}
+input[type="submit"] {
+    background: #bb423a none repeat scroll 0 0;
+}
+.searchbtn input[type="submit"]:hover {
+    background: #a42b23 none repeat scroll 0 0;
+    border: 1px solid #720a0e;
+}
+.navsection {
+    background: #2a363b none repeat scroll 0 0;
+    min-height: 20px;
+    padding: 15px 0;
+}
+.navsection ul li {
+    padding: 0 10px;
+    text-transform: uppercase;
+    float: left;
+    position: relative;
+     border-left: none;
+    border-right: 1px dashed #e86f67;
+}
+.navsection ul li a{  
+    display: block;
+    text-decoration: none;
+    color: #fff;
+     padding: 0px 7px;
+    -webkit-transition: color 0.3s;
+    transition:0.3s;
+    font-size: 18px;
+}
+
+.navsection ul li a:hover, #active {
+    color: #e86f67;
+    background: none;
+}
+.samepost h2 a {
+    color: #2A363B;
+    transition: 0.3s;
+}
+.samepost h2 a:hover{
+   color: #e86f67; 
+}
+.maincontent {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ffbbb3;
+}
+.contentsection {
+    border: 1px solid #a32a22;
+}
+.samepost img {
+    border: 1px solid #a32a22;
+    width: 280px;
+    height: 160px;
+}
+
+    
+.samesidebar h2 {
+    background: #e86f67 none repeat scroll 0 0;
+    border-bottom: 2px solid #c24941;
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.sidebar {
+    background: #2a363b none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+    color: #fff;
+}
+.samesidebar ul li {
+    border-bottom: 1px dashed #E86F67;
+}
+.popular h3 {
+    border-bottom: 1px dashed #E86F67;
+}
+.popular h3 a {
+    color: #E86F67;
+}
+.popular img {
+    border: 1px solid #a32a22;
+}
+.samesidebar ul li a {
+    color: #fff;
+}
+
+.readmore a {
+    background: #e86f67 none repeat scroll 0 0;
+    border: 1px solid #b94038;
+    color: #fff;
+    transition: 0.3s;
+}
+.readmore a:hover{
+    color: #fff;
+    background:#c95048; 
+}
+
+/* PAGINATION */
+
+.pagination {
+    clear: both;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.pagination a {
+    background: #d85f57 none repeat scroll 0 0;
+    border: 1px solid #e86f67;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 25px;
+    margin: 2px;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+.pagination a:hover, .pagination a:active {
+    background:#687282;
+}
+.pagination span.current {
+    background-color: #687282;
+    border: 1px solid #e86f67;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 25px;
+    padding: 8px 12px;
+    text-decoration: none;
+        margin:2px;
+}
+.pagination span.disabled {
+    border: 1px solid #eeeeee;
+    color: #dddddd;
+    margin: 2px;
+    padding: 4px 5px 7.5px;
+}
+
+
+.samepost h2, .about h2 {
+    border-bottom: 2px solid #e86f67;
+    color: #e86f67;
+    margin-bottom: 30px;
+}
+.samepost h4, .about h4 {
+    color: #E86F67;
+}
+.about img {
+    border: 1px solid #a32a22;
+}
+.relatedpost h2 {
+    background: #e86f67;
+    border-bottom: 2px solid #e86f67;
+    color: #e86f67;
+}
+.footersection p {
+    color: #fff;
+}
+.footermenu ul li a {
+    color: #fff;
+    font-size: 16px;
+    padding: 5px;
+    
+}
+.contact input[type="submit"] {
+    border: 1px solid #b13830;
+    transition: 0.3s;
+}
+
+.contact input[type="submit"]:hover {
+    background: #b13830 none repeat scroll 0 0;
+    border: 1px solid #720a0e;
+    color: #fff;
+}

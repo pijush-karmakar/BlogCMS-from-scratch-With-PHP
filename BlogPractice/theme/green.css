@@ -1,0 +1,136 @@
+
+/* ---------------------------  [ Green Theme ] ----------------------  */
+
+
+.headersection,.footersection {
+    background: #3faf60 none repeat scroll 0 0;
+}
+.icon a { background: #148435 none repeat scroll 0 0; 
+}
+.searchbtn input[type="text"] {
+    background: #2e9e4f none repeat scroll 0 0;
+    border: 1px solid #167b2c;
+    color:#fff;
+ 
+}
+.searchbtn input[type="submit"] {
+    border: 1px solid #0d7324;
+
+}
+input[type="submit"] {
+    background: #108031 none repeat scroll 0 0;
+}
+.searchbtn input[type="submit"]:hover {
+    background: #108031 none repeat scroll 0 0;
+    border: 1px solid #083d08;
+}
+.navsection {
+    background: #249445 none repeat scroll 0 0;
+}
+.navsection ul li {
+    border-left: 1px solid #3dad5e;
+    border-right: 1px solid #075d0e;
+}
+.samepost h2 a {
+    color: #3FAF60;
+}
+.maincontent {
+    background: #efffff none repeat scroll 0 0;
+    border: 1px solid #cedede;
+}
+.contentsection {
+    border: 1px solid #3faf60;
+}
+.samepost img {
+    border: 1px solid #239344;
+}
+.samesidebar h2 {
+    background: #3faf60 none repeat scroll 0 0;
+    border-bottom: 2px solid #1c8c3d;
+    color: #fff;
+}
+.sidebar {
+    background: #efffff none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+}
+.samesidebar ul li {
+    border-bottom: 1px dashed #3FAF60;
+}
+.popular h3 {
+    border-bottom: 1px dashed #3FAF60;
+}
+.popular img {
+    border: 1px solid #239344;
+}
+.samesidebar ul li a {
+    color: #0f7f30;
+}
+.readmore a {
+    border: 1px solid #108031;
+    color: #3faf60;
+}
+.footersection p {
+    color: #fff;
+}
+
+/* PAGINATION */
+.pagination {
+    clear: both;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.pagination a {
+     background: #3faf60 none repeat scroll 0 0;
+    border: 1px solid #3faf60;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 25px;
+    margin: 2px;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+.pagination a:hover, .pagination a:active {
+    background:#687282;
+}
+.pagination span.current {
+    background-color: #687282;
+    border: 1px solid #3faf60;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 25px;
+    padding: 8px 12px;
+    text-decoration: none;
+        margin:2px;
+}
+.pagination span.disabled {
+    border: 1px solid #eeeeee;
+    color: #dddddd;
+    margin: 2px;
+    padding: 4px 5px 7.5px;
+}
+
+
+.samepost h2, .about h2 {
+    color: #3FAF60;
+}
+
+.about img {
+    border: 1px solid #239344;
+}
+
+.samepost h2, .about h2 {
+    border-bottom: 2px solid #1c8c3d;
+}
+.relatedpost h2 {
+    background: #3FAF60;
+    border-bottom: 2px solid #1c8c3d;
+    color: #fff;
+}
+.footermenu ul li a {
+    color: #fff;
+    font-size: 16px;
+    padding: 5px;
+    text-decoration: none;
+}
