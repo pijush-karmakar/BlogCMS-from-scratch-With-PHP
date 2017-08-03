@@ -7,7 +7,3 @@
 <p>Inbox</p>
 <img src="https://user-images.githubusercontent.com/23507207/28930978-74a1e35e-7896-11e7-8994-15ef0acca69c.png" >
 
-
-<h4> --> Blog </h4> 
-
-<img src="https://user-images.githubusercontent.com/23507207/28932535-a0571488-789b-11e7-8d34-3dc3b1bd2ee8.png" >
